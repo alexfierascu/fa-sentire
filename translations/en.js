@@ -3,8 +3,6 @@ const translations_en = {
     'hero.title': 'Authentic Taste of Home',
     'hero.subtitle': 'Artisanal sandwiches that tell stories of tradition and passion',
     'hero.scroll': 'Scroll to discover',
-    'sandwich.title': 'Every bite is a journey',
-    'sandwich.subtitle': 'Fresh ingredients, traditional recipes, love in every detail',
     'menu.title': 'Our Selection',
     'menu.item1.name': 'Grandma\'s Classic',
     'menu.item1.description': 'Parma ham, buffalo mozzarella, fresh tomatoes, basil',

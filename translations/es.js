@@ -3,8 +3,6 @@ const translations_es = {
     'hero.title': 'Auténtico Sabor de Casa',
     'hero.subtitle': 'Sándwiches artesanales que cuentan historias de tradición y pasión',
     'hero.scroll': 'Desplázate para descubrir',
-    'sandwich.title': 'Cada bocado es un viaje',
-    'sandwich.subtitle': 'Ingredientes frescos, recetas tradicionales, amor en cada detalle',
     'menu.title': 'Nuestra Selección',
     'menu.item1.name': 'Clásico de la Abuela',
     'menu.item1.description': 'Jamón de Parma, mozzarella de búfala, tomates frescos, albahaca',

@@ -3,8 +3,6 @@ const translations_fr = {
     'hero.title': 'Goût Authentique de la Maison',
     'hero.subtitle': 'Sandwichs artisanaux qui racontent des histoires de tradition et passion',
     'hero.scroll': 'Faites défiler pour découvrir',
-    'sandwich.title': 'Chaque bouchée est un voyage',
-    'sandwich.subtitle': 'Ingrédients frais, recettes traditionnelles, amour dans chaque détail',
     'menu.title': 'Notre Sélection',
     'menu.item1.name': 'Classique de Grand-mère',
     'menu.item1.description': 'Jambon de Parme, mozzarella de bufflonne, tomates fraîches, basilic',

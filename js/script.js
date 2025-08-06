@@ -1,7 +1,6 @@
 // DOM Elements
 const scrollNavDots = document.querySelectorAll('.nav-dot');
 const sections = document.querySelectorAll('section');
-const sandwichContainer = document.querySelector('.sandwich-container');
 const heroSection = document.querySelector('.hero-section');
 const menuSection = document.querySelector('.menu-section');
 const contactSection = document.querySelector('.contact-section');
@@ -63,17 +62,6 @@ function updateScrollEffects() {
             const yPos = scrollTop * speed;
             element.style.transform = `translateY(${yPos}px)`;
         });
-    }
-
-    // Sandwich animation trigger
-    if (sandwichContainer) {
-        const sandwichSection = sandwichContainer.closest('section');
-        const rect = sandwichSection.getBoundingClientRect();
-        const isVisible = rect.top < windowHeight * 0.7 && rect.bottom > windowHeight * 0.3;
-
-        if (isVisible && !sandwichContainer.classList.contains('animate')) {
-            sandwichContainer.classList.add('animate');
-        }
     }
 
     // Menu items fade-in animation

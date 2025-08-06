@@ -3,8 +3,6 @@ const translations_it = {
     'hero.title': 'Autentico Sapore di Casa',
     'hero.subtitle': 'Panini artigianali che raccontano storie di tradizione e passione',
     'hero.scroll': 'Scorri per scoprire',
-    'sandwich.title': 'Ogni morso è un viaggio',
-    'sandwich.subtitle': 'Ingredienti freschi, ricette tradizionali, amore in ogni dettaglio',
     'menu.title': 'La Nostra Selezione',
     'menu.item1.name': 'Classico della Nonna',
     'menu.item1.description': 'Prosciutto di Parma, mozzarella di bufala, pomodori freschi, basilico',
