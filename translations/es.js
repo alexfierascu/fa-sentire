@@ -1,0 +1,27 @@
+// Spanish translations
+const translations_es = {
+    'hero.title': 'Auténtico Sabor de Casa',
+    'hero.subtitle': 'Sándwiches artesanales que cuentan historias de tradición y pasión',
+    'hero.scroll': 'Desplázate para descubrir',
+    'sandwich.title': 'Cada bocado es un viaje',
+    'sandwich.subtitle': 'Ingredientes frescos, recetas tradicionales, amor en cada detalle',
+    'menu.title': 'Nuestra Selección',
+    'menu.item1.name': 'Clásico de la Abuela',
+    'menu.item1.description': 'Jamón de Parma, mozzarella de búfala, tomates frescos, albahaca',
+    'menu.item2.name': 'Mediterráneo',
+    'menu.item2.description': 'Bresaola, rúcula, tomates secos, virutas de parmesano, aceite de oliva',
+    'menu.item3.name': 'Vegetariano Gourmet',
+    'menu.item3.description': 'Calabacines a la parrilla, berenjenas, pimientos, queso de cabra, pesto',
+    'menu.item4.name': 'Picante del Sur',
+    'menu.item4.description': 'Salchicha picante, friarielli, provola ahumada, chiles',
+    'menu.item5.name': 'Mar y Montaña',
+    'menu.item5.description': 'Salmón ahumado, crema de aguacate, alcaparras, cebolla roja',
+    'menu.item6.name': 'Carnívoro',
+    'menu.item6.description': 'Roast beef, bacon crujiente, queso cheddar, salsa BBQ',
+    'contact.title': 'Ven a Visitarnos',
+    'contact.address.title': '📍 Nuestra Dirección',
+    'contact.address.text': 'Via Roma, 123<br>20100 Milán, Italia',
+    'contact.hours.title': 'Horarios de Apertura',
+    'contact.hours.text': 'Lun-Vie: 8:00 - 20:00<br>Sáb-Dom: 9:00 - 22:00',
+    'contact.social.title': 'Síguenos en Redes Sociales'
+};

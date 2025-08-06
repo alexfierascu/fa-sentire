@@ -1,0 +1,27 @@
+// French translations
+const translations_fr = {
+    'hero.title': 'Goût Authentique de la Maison',
+    'hero.subtitle': 'Sandwichs artisanaux qui racontent des histoires de tradition et passion',
+    'hero.scroll': 'Faites défiler pour découvrir',
+    'sandwich.title': 'Chaque bouchée est un voyage',
+    'sandwich.subtitle': 'Ingrédients frais, recettes traditionnelles, amour dans chaque détail',
+    'menu.title': 'Notre Sélection',
+    'menu.item1.name': 'Classique de Grand-mère',
+    'menu.item1.description': 'Jambon de Parme, mozzarella de bufflonne, tomates fraîches, basilic',
+    'menu.item2.name': 'Méditerranéen',
+    'menu.item2.description': 'Bresaola, roquette, tomates séchées, copeaux de parmesan, huile d\'olive',
+    'menu.item3.name': 'Végétarien Gourmet',
+    'menu.item3.description': 'Courgettes grillées, aubergines, poivrons, fromage de chèvre, pesto',
+    'menu.item4.name': 'Épicé du Sud',
+    'menu.item4.description': 'Saucisse épicée, friarielli, provola fumée, piments',
+    'menu.item5.name': 'Mer et Montagne',
+    'menu.item5.description': 'Saumon fumé, crème d\'avocat, câpres, oignon rouge',
+    'menu.item6.name': 'Carnivore',
+    'menu.item6.description': 'Rôti de bœuf, bacon croustillant, fromage cheddar, sauce BBQ',
+    'contact.title': 'Venez Nous Voir',
+    'contact.address.title': '📍 Notre Adresse',
+    'contact.address.text': 'Via Roma, 123<br>20100 Milan, Italie',
+    'contact.hours.title': 'Heures d\'Ouverture',
+    'contact.hours.text': 'Lun-Ven: 8:00 - 20:00<br>Sam-Dim: 9:00 - 22:00',
+    'contact.social.title': 'Suivez-nous sur les Réseaux'
+};

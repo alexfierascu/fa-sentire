@@ -1,0 +1,27 @@
+// English translations
+const translations_en = {
+    'hero.title': 'Authentic Taste of Home',
+    'hero.subtitle': 'Artisanal sandwiches that tell stories of tradition and passion',
+    'hero.scroll': 'Scroll to discover',
+    'sandwich.title': 'Every bite is a journey',
+    'sandwich.subtitle': 'Fresh ingredients, traditional recipes, love in every detail',
+    'menu.title': 'Our Selection',
+    'menu.item1.name': 'Grandma\'s Classic',
+    'menu.item1.description': 'Parma ham, buffalo mozzarella, fresh tomatoes, basil',
+    'menu.item2.name': 'Mediterranean',
+    'menu.item2.description': 'Bresaola, arugula, sun-dried tomatoes, parmesan flakes, olive oil',
+    'menu.item3.name': 'Gourmet Vegetarian',
+    'menu.item3.description': 'Grilled zucchini, eggplant, peppers, goat cheese, pesto',
+    'menu.item4.name': 'Spicy Southern',
+    'menu.item4.description': 'Spicy sausage, friarielli, smoked provola, hot peppers',
+    'menu.item5.name': 'Sea and Mountains',
+    'menu.item5.description': 'Smoked salmon, avocado cream, capers, red onion',
+    'menu.item6.name': 'Carnivore',
+    'menu.item6.description': 'Roast beef, crispy bacon, cheddar cheese, BBQ sauce',
+    'contact.title': 'Come Visit Us',
+    'contact.address.title': '📍 Our Address',
+    'contact.address.text': 'Via Roma, 123<br>20100 Milan, Italy',
+    'contact.hours.title': 'Opening Hours',
+    'contact.hours.text': 'Mon-Fri: 8:00 - 20:00<br>Sat-Sun: 9:00 - 22:00',
+    'contact.social.title': 'Follow Us on Social'
+};

@@ -1,0 +1,27 @@
+// Italian translations
+const translations_it = {
+    'hero.title': 'Autentico Sapore di Casa',
+    'hero.subtitle': 'Panini artigianali che raccontano storie di tradizione e passione',
+    'hero.scroll': 'Scorri per scoprire',
+    'sandwich.title': 'Ogni morso è un viaggio',
+    'sandwich.subtitle': 'Ingredienti freschi, ricette tradizionali, amore in ogni dettaglio',
+    'menu.title': 'La Nostra Selezione',
+    'menu.item1.name': 'Classico della Nonna',
+    'menu.item1.description': 'Prosciutto di Parma, mozzarella di bufala, pomodori freschi, basilico',
+    'menu.item2.name': 'Mediterraneo',
+    'menu.item2.description': 'Bresaola, rucola, pomodori secchi, scaglie di parmigiano, olio d\'oliva',
+    'menu.item3.name': 'Vegetariano Gourmet',
+    'menu.item3.description': 'Zucchine grigliate, melanzane, peperoni, formaggio di capra, pesto',
+    'menu.item4.name': 'Piccante del Sud',
+    'menu.item4.description': 'Salsiccia piccante, friarielli, provola affumicata, peperoncini',
+    'menu.item5.name': 'Mare e Monti',
+    'menu.item5.description': 'Salmone affumicato, crema di avocado, capperi, cipolla rossa',
+    'menu.item6.name': 'Carnivoro',
+    'menu.item6.description': 'Roast beef, pancetta croccante, formaggio cheddar, salsa BBQ',
+    'contact.title': 'Vieni a Trovarci',
+    'contact.address.title': '📍 Il Nostro Indirizzo',
+    'contact.address.text': 'Via Roma, 123<br>20100 Milano, Italia',
+    'contact.hours.title': 'Orari di Apertura',
+    'contact.hours.text': 'Lun-Ven: 8:00 - 20:00<br>Sab-Dom: 9:00 - 22:00',
+    'contact.social.title': 'Seguici Sui Social'
+};
