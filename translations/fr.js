@@ -20,8 +20,8 @@ const translations_fr = {
     'menu.item6.description': 'Rôti de bœuf, bacon croustillant, fromage cheddar, sauce BBQ',
     'contact.title': 'Venez Nous Voir',
     'contact.address.title': '📍 Notre Adresse',
-    'contact.address.text': 'Via Roma, 123<br>20100 Milan, Italie',
+    'contact.address.text': 'Aspire Building<br>67000 Strasbourg, France',
     'contact.hours.title': 'Heures d\'Ouverture',
-    'contact.hours.text': 'Lun-Ven: 8:00 - 20:00<br>Sam-Dim: 9:00 - 22:00',
+    'contact.hours.text': 'Lun-Ven: 8:00 - 14:00<br>Sam-Dim: 10:00 - 14:00',
     'contact.social.title': 'Suivez-nous sur les Réseaux'
 };

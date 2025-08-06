@@ -20,8 +20,8 @@ const translations_en = {
     'menu.item6.description': 'Roast beef, crispy bacon, cheddar cheese, BBQ sauce',
     'contact.title': 'Come Visit Us',
     'contact.address.title': '📍 Our Address',
-    'contact.address.text': 'Via Roma, 123<br>20100 Milan, Italy',
+    'contact.address.text': 'Aspire Building<br>67000 Strasbourg, France',
     'contact.hours.title': 'Opening Hours',
-    'contact.hours.text': 'Mon-Fri: 8:00 - 20:00<br>Sat-Sun: 9:00 - 22:00',
+    'contact.hours.text': 'Mon-Fri: 8:00 - 14:00<br>Sat-Sun: 10:00 - 14:00',
     'contact.social.title': 'Follow Us on Social'
 };

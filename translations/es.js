@@ -20,8 +20,8 @@ const translations_es = {
     'menu.item6.description': 'Roast beef, bacon crujiente, queso cheddar, salsa BBQ',
     'contact.title': 'Ven a Visitarnos',
     'contact.address.title': '📍 Nuestra Dirección',
-    'contact.address.text': 'Via Roma, 123<br>20100 Milán, Italia',
+    'contact.address.text': 'Aspire Building<br>67000 Strasbourg, France',
     'contact.hours.title': 'Horarios de Apertura',
-    'contact.hours.text': 'Lun-Vie: 8:00 - 20:00<br>Sáb-Dom: 9:00 - 22:00',
+    'contact.hours.text': 'Lun-Vie: 8:00 - 14:00<br>Sáb-Dom: 10:00 - 14:00',
     'contact.social.title': 'Síguenos en Redes Sociales'
 };

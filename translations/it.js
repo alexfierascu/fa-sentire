@@ -20,8 +20,8 @@ const translations_it = {
     'menu.item6.description': 'Roast beef, pancetta croccante, formaggio cheddar, salsa BBQ',
     'contact.title': 'Vieni a Trovarci',
     'contact.address.title': '📍 Il Nostro Indirizzo',
-    'contact.address.text': 'Via Roma, 123<br>20100 Milano, Italia',
+    'contact.address.text': 'Aspire Building<br>67000 Strasbourg, France',
     'contact.hours.title': 'Orari di Apertura',
-    'contact.hours.text': 'Lun-Ven: 8:00 - 20:00<br>Sab-Dom: 9:00 - 22:00',
+    'contact.hours.text': 'Lun-Ven: 8:00 - 14:00<br>Sab-Dom: 10:00 - 14:00',
     'contact.social.title': 'Seguici Sui Social'
 };
