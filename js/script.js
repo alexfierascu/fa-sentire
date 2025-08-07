@@ -2,8 +2,6 @@
 const scrollNavDots = document.querySelectorAll('.nav-dot');
 const sections = document.querySelectorAll('section');
 const heroSection = document.querySelector('.hero-section');
-const menuSection = document.querySelector('.menu-section');
-const contactSection = document.querySelector('.contact-section');
 
 // Language system - translations are loaded from external files
 const translations = {
@@ -13,7 +11,7 @@ const translations = {
     es: translations_es
 };
 
-let currentLanguage = 'it';
+let currentLanguage = 'en';
 
 // Language switching function
 function switchLanguage(lang) {
@@ -355,7 +353,7 @@ function initMap() {
         console.log('Google Maps not available');
         mapContainer.innerHTML = `
             <div class="map-loading">
-                <p>Mappa non disponibile. Visitaci a: Via Roma, 123, Milano</p>
+                <p>Map not available. Visit us at: Aspire Building Strasbourg, France</p>
             </div>
         `;
     }
@@ -438,16 +436,6 @@ function initIntersectionObserver() {
     document.querySelectorAll('.address-card, .social-links').forEach(card => {
         observer.observe(card);
     });
-}
-
-// Error handling for missing elements
-function safeQuerySelector(selector) {
-    try {
-        return document.querySelector(selector);
-    } catch (error) {
-        console.warn(`Element not found: ${selector}`);
-        return null;
-    }
 }
 
 // Initialize everything when DOM is loaded
